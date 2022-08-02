@@ -1,6 +1,4 @@
-# Marcus Bragion
-
-### Cientista de Dados
+# Sobre mim
 
 Meu principal objetivo é trabalhar como Cientista de Dados, desenvolvendo produtos de dados, seja através de Análises e técnicas de Machine Learning ou Estatística para solucionar problemas de negócio para as empresas.
 
