@@ -10,15 +10,19 @@ Atualmente sou Analista de Dados Jr em uma consultoria de BI, contribuo no desen
 
 ### Ferramentas Analíticas: 
 
- SQL, Python, Data Studio, Metabase, Power Bi
+ SQL, Python, Data Studio, Metabase, Power Bi, Airflow, DBT.
 
 ### Ferramentas de desenvolvimento: 
 
-Git, Scrum, Lean Analytics, Airflow, DBT, Asana, Redmine
+Git, Scrum, Lean Analytics, Linux, Asana.
 
-### Banco de Dados:
+### Coleta de Dados e Banco de Dados:
 
-PostgreSQL, MongoDB
+PostgreSQL, MongoDB, MySQL, BigQuery, AWS Redshift.
+
+### Machine Learning:
+
+Regressão, Classificação e Clusterização (em andamento).
 
 ### Links:
 
