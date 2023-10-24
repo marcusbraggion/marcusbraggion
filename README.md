@@ -18,6 +18,11 @@ Visualização de dados ( Pacotes, Ferramentas self-service de Visualização de
 
 Engenharia de Software ( Máquina virtual, controle de versão )
 
+### Experiências
+
+Sou um Analista de Dados com experiência em projetos de dados nas áreas de Risco, Prevenção a fraudes, BI, ETL e Data Quality. Tenho conhecimento em diversas ferramentas analíticas e de desenvolvimento, como SQL, Python, Power Bi, Git, dbt, Databricks, entre outras. Também tenho habilidade em trabalhar com diferentes fontes e plataformas de dados, como Datalake, WebScrapping, PostgreSQL, MongoDB, AWS RDS e BigQuery. Atualmente, trabalho na Superdigital, onde colaboro na automação e criação de indicadores para a área de Risco e Prevenção a fraudes.
+
+
 ### Ferramentas Analíticas: 
 
  SQL, Python, Data Studio, Metabase, Power Bi, Airflow, DBT.
@@ -30,11 +35,10 @@ Git, Scrum, Lean Analytics, Linux, Asana.
 
 PostgreSQL, MongoDB, MySQL, BigQuery, AWS Redshift.
 
-### Links:
+### Contatos:
 
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcusviniciusbragion//)
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinibragion@gmail.com)](mailto:vinibragion@gmail.com)
-* [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcusbragion//)
 
 # Projetos 
 
