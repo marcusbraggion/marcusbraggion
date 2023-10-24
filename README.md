@@ -1,10 +1,10 @@
 ### Boas-vindas
 
-Olá, seja bem-vindo(a) ao meu portfólio profissional de projetos. 
+Olá, seja bem-vindo(a) ao meu portfólio profissional de projetos.  
 
 ### Sobre mim
 
-Meu objetivo é atuar com Data & Analytics, atualmente estou trabalhando como Analista de Dados na Superdigital. 
+Meu objetivo é atuar com Data & Analytics, atualmente estou trabalhando como Analista de Dados na Superdigital dentro da BU de Estratégia e Risco, minhas responsabilidades estão divididas entre criar os principais indicadores operacionais e automatizar rotinas. 
 
 ### Ferramentas Analíticas: 
 
