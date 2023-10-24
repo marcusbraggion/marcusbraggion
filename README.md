@@ -1,6 +1,6 @@
 # Sobre mim
 
-Atualmente sou um Analista de Dados na empresa Superdigital.
+Atualmente sou um Analista de Dados na empresa Superdigital,
 
 ### Ferramentas Analíticas: 
 
