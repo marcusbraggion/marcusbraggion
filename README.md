@@ -16,13 +16,23 @@ Atualmente, trabalho na analise e extração de conhecimentos dos dados para sup
 
 ### Habilidades
 
-Linguagem de programação e Banco de Dados ( Coleta, Manipular, e Extrair conhecimentos dos dados ) 
+Linguagem de programação e Banco de Dados 
+ - Python com foco em analise de dados
+ - Web scraping com Python
+ - SQL para extração de dados
+ - Banco de dados SQLite, Postgres, MYSQL, SQL Server e MongoDB.
 
-Estatistica descritiva 
+Estatistica 
+- Estatistica descritiva ( localização, dispersão, assimetria, kurtosis e densidade )
 
 Visualização de dados ( Pacotes, Ferramentas self-service de Visualização de dados ) 
+- Matplotlib, Seaborn, Plotly
+- Power BI, Tableau, Metabase e Google Data Studio
 
 Engenharia de Software ( Máquina virtual, controle de versão )
+- Git, Github, Gitlab, Cookiecutter, VirtualEnvironment
+- Streamlit, Flask, Python API's
+- AWS Amazon e Google Cloud Platform ( GCP ), Azure
 
 ### Experiências
 
