@@ -2,6 +2,12 @@
 
 Olá, seja bem-vindo(a) ao meu portfólio profissional de projetos.  
 
+Nessa página, eu demonstro minhas habilidades de resolver problemas de negópcio utilizando conceietos e ferramentas da Ciência de Dados, através de projetos com dados públicos.
+
+Você vai encontrar também, minhas experi~encias profissionais, habilidades, ferramentas e conceitos envolvendo Ciência de Dados.
+
+Sinta-se à vontade para entrar em contato atavrés dos links na seção Contatos. 
+
 ### Sobre mim
 
 Meu nome é Marcus Vinicius, sou formado em Administração de Empresas e trabalho com Data & Analytics no setor financeiro. 
