@@ -16,7 +16,7 @@ Estatistica descritiva
 
 Visualização de dados ( Pacotes, Ferramentas self-service de Visualização de dados ) 
 
-Engenharia de Softwarwe ( Máquina virtual, controle de versão )
+Engenharia de Software ( Máquina virtual, controle de versão )
 
 ### Ferramentas Analíticas: 
 
