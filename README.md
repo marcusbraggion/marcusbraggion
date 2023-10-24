@@ -5,9 +5,8 @@ Olá, seja bem-vindo(a) ao meu portfólio profissional de projetos.
 ### Sobre mim
 
 Meu nome é Marcus Vinicius, sou formado em Administração de Empresas e trabalho com Data & Analytics no setor financeiro. 
-Atualmente, 
 
-Atualmente, trabalho na coleta, manipulação e extração de conhecimentos dos dados para suportar a tomada de decisão na área de Estratégia e Risco e trabalho com projetos pessoais sobre Analise e Ciência de Dados, para adquirir experiencia na solução de problemas de negocio e dominio sobre as ferramentas de analise de dados. 
+Atualmente, trabalho na analise e extração de conhecimentos dos dados para suportar a tomada de decisão na área de Estratégia e Risco e trabalho com projetos pessoais sobre Analise e Ciência de Dados, para adquirir experiencia na solução de problemas de negocio e dominio sobre as ferramentas de analise de dados. 
 
 ### Habilidades
 
