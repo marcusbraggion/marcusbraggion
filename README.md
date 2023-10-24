@@ -22,19 +22,6 @@ Engenharia de Software ( Máquina virtual, controle de versão )
 
 Sou um Analista de Dados com experiência em projetos de dados nas áreas de Risco, Prevenção a fraudes, BI, ETL e Data Quality. Tenho conhecimento em diversas ferramentas analíticas e de desenvolvimento, como SQL, Python, Power Bi, Git, dbt, Databricks, entre outras. Também tenho habilidade em trabalhar com diferentes fontes e plataformas de dados, como Datalake, WebScrapping, PostgreSQL, MongoDB, AWS RDS e BigQuery. Atualmente, trabalho na Superdigital, onde colaboro na automação e criação de indicadores para a área de Risco e Prevenção a fraudes.
 
-
-### Ferramentas Analíticas: 
-
- SQL, Python, Data Studio, Metabase, Power Bi, Airflow, DBT.
-
-### Ferramentas de desenvolvimento: 
-
-Git, Scrum, Lean Analytics, Linux, Asana.
-
-### Coleta de Dados e Banco de Dados:
-
-PostgreSQL, MongoDB, MySQL, BigQuery, AWS Redshift.
-
 ### Contatos:
 
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcusviniciusbragion//)
