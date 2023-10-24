@@ -1,6 +1,6 @@
 # Sobre mim
 
-Me chamo Marcus, resido em SP e atualmente estou trabalhando como Analista de Dados na Superdigital. Meu objetivo é trabalhar com Data & Analytics
+Me chamo Marcus, meu objetivo é atuar com Data & Analytics, atualmente estou trabalhando como Analista de Dados na Superdigital. 
 
 ### Ferramentas Analíticas: 
 
