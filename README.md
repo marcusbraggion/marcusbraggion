@@ -6,6 +6,14 @@ Olá, seja bem-vindo(a) ao meu portfólio profissional de projetos.
 
 Meu objetivo é atuar com Data & Analytics, atualmente estou trabalhando como Analista de Dados na Superdigital dentro da BU de Estratégia e Risco, minhas responsabilidades estão divididas entre criar os principais indicadores operacionais e automatizar rotinas. 
 
+### Habilidades
+
+Linguagem de programação ( Coleta, Manipular, e Extrair conhecimentos dos dados )
+Banco de Dados ( Consulta, Modelagem dimensional )
+Estatistica descritiva 
+Visualização de dados ( Pacotes, Ferramentas self-service de Visualização de dados )
+Engenharia de Softwarwe ( Máquina virtual, controle de versão )
+
 ### Ferramentas Analíticas: 
 
  SQL, Python, Data Studio, Metabase, Power Bi, Airflow, DBT.
