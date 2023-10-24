@@ -14,10 +14,6 @@ Git, Scrum, Lean Analytics, Linux, Asana.
 
 PostgreSQL, MongoDB, MySQL, BigQuery, AWS Redshift.
 
-### Machine Learning:
-
-Regressão, Classificação e Clusterização (em andamento).
-
 ### Links:
 
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcusviniciusbragion//)
