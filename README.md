@@ -24,7 +24,7 @@ Regressão, Classificação e Clusterização (em andamento).
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinibragion@gmail.com)](mailto:vinibragion@gmail.com)
 * [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcusbragion//)
 
-# Projetos de Ciência de Dados
+# Projetos 
 
 ## Insights
 
