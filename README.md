@@ -36,6 +36,12 @@ Engenharia de Software ( Máquina virtual, controle de versão )
 
 ### Experiências
 
+2+ Projetos completos de Analise de Dados
+
+3+ Projetos completos de Ciência de dados
+
+2+ anos como Analista de Risco
+
 Sou um Analista de Dados com experiência em projetos de dados nas áreas de Risco, Prevenção a fraudes, BI, ETL e Data Quality. Tenho conhecimento em diversas ferramentas analíticas e de desenvolvimento, como SQL, Python, Power Bi, Git, dbt, Databricks, entre outras. Também tenho habilidade em trabalhar com diferentes fontes e plataformas de dados, como Datalake, WebScrapping, PostgreSQL, MongoDB, AWS RDS e BigQuery. Atualmente, trabalho na Superdigital, onde colaboro na automação e criação de indicadores para a área de Risco e Prevenção a fraudes.
 
 ### Contatos:
