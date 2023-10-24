@@ -8,10 +8,14 @@ Meu objetivo é atuar com Data & Analytics, atualmente estou trabalhando como An
 
 ### Habilidades
 
-Linguagem de programação ( Coleta, Manipular, e Extrair conhecimentos dos dados ) \n
-Banco de Dados ( Consulta, Modelagem dimensional ) \n
-Estatistica descritiva \n
-Visualização de dados ( Pacotes, Ferramentas self-service de Visualização de dados ) \n
+Linguagem de programação ( Coleta, Manipular, e Extrair conhecimentos dos dados ) 
+
+Banco de Dados ( Consulta, Modelagem dimensional ) 
+
+Estatistica descritiva 
+
+Visualização de dados ( Pacotes, Ferramentas self-service de Visualização de dados ) 
+
 Engenharia de Softwarwe ( Máquina virtual, controle de versão )
 
 ### Ferramentas Analíticas: 
