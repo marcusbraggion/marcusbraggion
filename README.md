@@ -4,13 +4,12 @@ Olá, seja bem-vindo(a) ao meu portfólio profissional de projetos.
 
 ### Sobre mim
 
-Meu objetivo é atuar com Data & Analytics, atualmente estou trabalhando como Analista de Dados na Superdigital dentro da BU de Estratégia e Risco, minhas responsabilidades estão divididas entre criar os principais indicadores operacionais e automatizar rotinas. 
+Meu nome é Marcus Vinicius, sou formado em Administração de Empresas e atualmente estou trabalhando como Analista de Dados na Superdigital dentro da BU de Estratégia e Risco, minhas responsabilidades estão divididas entre criar os principais indicadores operacionais e automatizar rotinas.  
+Meu objetivo é atuar com Data & Analytics.
 
 ### Habilidades
 
-Linguagem de programação ( Coleta, Manipular, e Extrair conhecimentos dos dados ) 
-
-Banco de Dados ( Consulta, Modelagem dimensional ) 
+Linguagem de programação e Banco de Dados ( Coleta, Manipular, e Extrair conhecimentos dos dados ) 
 
 Estatistica descritiva 
 
