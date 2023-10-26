@@ -44,7 +44,7 @@ Construção de soluções de dados para problemas de negócio, próximos dos de
 
 2+ anos como Analista de Risco
 
-Sou um Analista de Dados com experiência em projetos de dados nas áreas de Risco. Rotinas de atualização de relatórios e métricas, além de paineis de indicadores para a área de Risco e Prevenção a fraudes.
+Rotinas de atualização de relatórios e métricas, além de criação de paineis de indicadores para a área de Risco e Prevenção a fraudes e otimização de processos utilizando linguagem de programação Python.
 
 ### Contatos:
 
