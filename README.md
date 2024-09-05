@@ -18,7 +18,6 @@ Atualmente, trabalho na analise e extração de conhecimentos dos dados para sup
 
 Linguagem de programação e Banco de Dados 
  - Python com foco em analise de dados
- - Web scraping com Python
  - SQL para extração de dados
  - Banco de dados SQLite, Postgres, MYSQL, SQL Server e MongoDB.
 
@@ -36,15 +35,17 @@ Engenharia de Software ( Máquina virtual, controle de versão )
 
 ### Experiências
 
-2+ Projetos completos de Analise de Dados
+2+ Projetos completos de Analise de Dados.
 
 3+ Projetos completos de Ciência de dados
 
 Construção de soluções de dados para problemas de negócio, próximos dos desafios reais das empresas, utilizando dados públicos de competições de Ciência de Dados, onde eu abordei o problema desde a concepção do desafio de negócio até a publicação do algoritmo em produção.
 
-2+ anos como Analista de Risco
+2+ anos como Analista de Dados
 
-Rotinas de atualização de relatórios e métricas, além de criação de paineis de indicadores para a área de Risco e Prevenção a fraudes e otimização de processos utilizando linguagem de programação Python.
+Atualmente estou como Analytics Engineering no banco Itaú, faço parte da Comunidade FinOps!
+
+Na Superdigital, uma unidade de negócios do grupo Santander, atuei como analista de dados. Minhas principais atividades nessa posição incluíram a atualização de relatórios e métricas, a criação de painéis de indicadores para a área de Risco e Prevenção a Fraudes, além da otimização de processos utilizando a linguagem de programação Python.
 
 ### Contatos:
 
